@@ -1,0 +1,12 @@
+C:\C#\repos\örnek2\EmlakKayıt\bin\Debug\EmlakKayıt.exe.config
+C:\C#\repos\örnek2\EmlakKayıt\bin\Debug\EmlakKayıt.exe
+C:\C#\repos\örnek2\EmlakKayıt\bin\Debug\EmlakKayıt.pdb
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.csproj.AssemblyReference.cache
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.csproj.SuggestedBindingRedirects.cache
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.Form1.resources
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.Properties.Resources.resources
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.csproj.GenerateResource.cache
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.csproj.CoreCompileInputs.cache
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.exe
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.pdb
+C:\C#\repos\örnek2\EmlakKayıt\obj\Debug\EmlakKayıt.Form2.resources
